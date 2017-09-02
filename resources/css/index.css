@@ -1,54 +1,47 @@
+/* General Formatting for the entire webpage */
 body {
   text-align: center;
-}
-
-h1 {
   font-family: Helvetica;
+}
+/* Broadway Design */
+h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
-
+/* Links */
 .btn-nav {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
 }
-
+/* Broadway Design & Links Background & Additional Formatting */
 .hero {
   background-image: url("../images/the-flatiron-building.png");
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
 }
-
+/* Our Process */
 h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
 }
-
+/* Identify, Understand, & Execute; Portfolio, Team, & Contact */
 h3 {
-  font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
 }
-
-p {
-  font-family: Helvetica;
+/* Coming Soon, We're Hiring!, and Phone, Email & Twitter */
+.supporting-item {
   font-size: 14px;
 }
-
+/* Designed in New York */
 .minihero h2 {
   background-image: url("../images/the-flatiron-building.png");
-  font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   color: white;
 }
-
-.footer{
-  font-family: Helvetica;
+/* © Broadway 2017 and Bottom Links */
+.footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
