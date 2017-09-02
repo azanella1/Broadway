@@ -10,6 +10,7 @@ h1 {
 }
 
 .hero {
+  background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
   font-size: 18px;
   color: white;
@@ -33,6 +34,7 @@ p {
 }
 
 .minihero {
+  background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
