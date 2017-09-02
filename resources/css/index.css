@@ -9,6 +9,12 @@ h1 {
   color: white;
 }
 
+.btn-nav {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
 .hero {
   background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
@@ -33,7 +39,7 @@ p {
   font-size: 14px;
 }
 
-.minihero {
+.minihero h2 {
   background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
   font-size: 23px;
@@ -46,4 +52,5 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
